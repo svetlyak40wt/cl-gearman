@@ -1,3 +1,4 @@
 (base https://github.com/taksatou/cl-gearman :branch :master)
 
 (branch svetlyak40wt/cl-gearman :branch :close-connection-propertly)
+(branch svetlyak40wt/cl-gearman :branch :fix-gearman-connection-error)
